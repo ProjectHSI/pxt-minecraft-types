@@ -1,0 +1,11 @@
+{
+  "name": "pxt-minecraft-types",
+  "version": "1.0.0",
+  "description": "Approximate types for the Minecraft MakeCode / PXT Editor for use in IDEs like Visual Studio Code. ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "[Project HSI]",
+  "license": "MIT"
+}
